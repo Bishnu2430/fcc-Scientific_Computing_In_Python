@@ -32,7 +32,6 @@ Output:
 
 See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 
-You can try my code at [Replit](https://replit.com/@PabloPerez26/boilerplate-arithmetic-formatter#arithmetic_arranger.py)
 
 ## Time Calculator
 
@@ -50,7 +49,6 @@ Output:
 
 See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
 
-You can try my code at [Replit](https://replit.com/@PabloPerez26/time-calculator#main.py)
 
 ## Budget App
 
@@ -95,7 +93,6 @@ Percentage spent by category
 
 See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
 
-You can try my code at [Replit](https://replit.com/@PabloPerez26/budget-app)
 
 
 ## Polygon Area Calculator
@@ -105,7 +102,7 @@ This project consisted in creating a class called rectangle and a subclass of re
 
 See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
 
-You can try my code at [Replit](https://replit.com/@PabloPerez26/polygon-area-calculator)
+
 
 ## Probability Calculator
 
@@ -114,7 +111,7 @@ For this project, I needed to write a program to determine the approximate proba
 
 See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
 
-You can try my code at [Replit](https://replit.com/@PabloPerez26/boilerplate-probability-calculator)
+
 
 
 
