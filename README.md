@@ -30,8 +30,6 @@ Output:
 -----    ------    ----    -----
 ```
 
-See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
-
 
 ## Time Calculator
 
@@ -47,7 +45,6 @@ Output:
 
 ` # Returns: 12:03 AM, Thursday (2 days later) `
 
-See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
 
 
 ## Budget App
@@ -91,7 +88,6 @@ Percentage spent by category
         g 
 ```
 
-See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
 
 
 
@@ -100,7 +96,6 @@ See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/sc
 This project consisted in creating a class called rectangle and a subclass of rectangle called square that inhereted methods and attributes. The Rectangle class includes methods to calculate area, perimeter, diagonal, print a picture and see how many times other shapes can fit inside. 
 
 
-See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator)
 
 
 
@@ -108,8 +103,6 @@ See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/sc
 
 For this project, I needed to write a program to determine the approximate probability of drawing certain balls randomly from a hat. I created a Hat class that the user, when creating a instance of the class, can decide how many balls are in the hat  and of which colors they are. Then there is a function to calculate the probability of picking a group of balls from an instance of the hat class
 
-
-See all the requirements at [FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
 
 
 
